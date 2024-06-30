@@ -1,6 +1,3 @@
-# DCIT-318--Assignment-10823856 ( grade calculator) 
-
-
 using System;
 
 namespace GradeCalculator
